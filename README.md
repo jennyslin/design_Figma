@@ -4,5 +4,5 @@
 
 
 
-【手機版】
+
 ![image](https://jennyslin.github.io/design_Figma/958_landingpage_mob.jpg)
